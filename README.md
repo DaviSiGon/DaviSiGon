@@ -1,6 +1,8 @@
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSiGon&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiGon&layout=donut&theme=dark)
+<div>
+    <a href="https://github.com/DaviSiGon">
+    <img height="180cm" alt="Davi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DaviSiGon&show_icons=true&theme=dark">
+    <img height="180cm" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiGon&layout=donut&theme=dark">
+</div>
 
 ### KNOWLEDGE
 
