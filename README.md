@@ -1,5 +1,6 @@
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSiGon&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiGon&layout=compact&theme=dark)
 
 ### KNOWLEDGE
 
@@ -39,3 +40,4 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fckydx/)
 [![Deezer](https://img.shields.io/badge/Deezer-9933CC?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/br/profile/5833385111)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/davisigon11)
+
