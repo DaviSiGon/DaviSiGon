@@ -1,6 +1,6 @@
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSiGon&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiGon&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiGon&layout=donut&theme=dark)
 
 ### KNOWLEDGE
 
